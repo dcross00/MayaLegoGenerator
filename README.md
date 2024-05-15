@@ -4,13 +4,17 @@ The LEGO Maker Plugin is a powerful tool designed to streamline the creation of 
 
 ## Installation
 
-1. Download the `LegoGenerator.py` script from the [GitHub repository](https://github.com/dcross00/MayaLegoGenerator).
+1. Download the `LegoGenerator.txt` script from the [GitHub repository](https://github.com/dcross00/MayaLegoGenerator).
 
-2. Open Autodesk Maya and navigate to the Script Editor.
+2. Open Autodesk Maya and create a new shelf
 
-3. Load the `Legogenerator.py` script into Maya by clicking on File > Source Script... and selecting the downloaded script.
+3. Navigate to the Script Editor.
 
-4. Once the script is loaded, the LEGO Maker UI will appear, ready for use.
+4. Load the `Legogenerator.txt` script into Maya by copying and pasting the downloaded text file into the python script editior .
+
+5. Once the script is loaded, go to file > save script to shelf
+
+6 .Once this is done the tool should be in the in the creted shelf
 
 ## Usage
 
